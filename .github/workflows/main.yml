@@ -10,4 +10,4 @@ jobs:
     - uses: actions/checkout@master
     - uses: ./GitHubActions
       env:
-        MY_NAME: "Ben"
+        MY_NAME: "Frederick"
